@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.summary     = "CodeRay filter for Haml"
   spec.description = "Adds a CodeRay syntax highlighting filter to Haml"
   spec.files       = Dir["lib/*.rb", "[A-Z][A-Z]*"]
-  spec.author      = "Ørjan Blom"
+  spec.author      = "Orjan Blom"
   spec.email       = "blom@blom.tv"
   spec.homepage    = "https://github.com/blom/haml-coderay"
 
